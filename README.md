@@ -1,0 +1,1 @@
+# Prediction-of-Chronic-Diseases-From-X-Rays-Using-Distributed-Machine-Learning
